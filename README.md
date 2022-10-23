@@ -22,8 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Primeiro projeto consumindo APIs, com sistema de erro e 8 sujestões de cidades/países utilizando api OpenWather para trazer as condições climáticas de qualquer cidade/país do mundo.
-API Coutry Flags para identificar a bandeira do páis da cidade escolhida e API Unsplash para trazer uma imagem de fundo relacionada com a cidade/país escolhido.
+Projeto simples consumindo APIs, com sistema de erro e 8 sugestões de cidades/países utilizando api OpenWather para trazer as condições climáticas de qualquer cidade/país do mundo. API Country Flags para identificar a bandeira do país da cidade escolhida e API Unsplash para trazer uma imagem de fundo relacionada com a cidade/país escolhido.
 
 
 
